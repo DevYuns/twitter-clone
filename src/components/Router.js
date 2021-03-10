@@ -1,7 +1,6 @@
 import { HashRouter, Route, Switch } from 'react-router-dom';
 
 import Auth from 'routes/Auth';
-import EditProfile from 'routes/EditProfile';
 import Home from 'routes/Home';
 import Navigation from 'components/Navigation';
 import Profile from 'routes/Profile';
