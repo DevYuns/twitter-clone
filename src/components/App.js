@@ -33,13 +33,13 @@ function App() {
   
   return (
     <>
-      {init 
-        ? (<Router
+      {init ? (
+        <Router
           refreshUser={refreshUser} 
           isLoggedIn={Boolean(userObj)}
           userObj={userObj}
-        />) 
-        : "Initializing..."
+        />
+        ) : "Initializing..."
       }
     </>
   );
