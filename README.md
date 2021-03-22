@@ -1,5 +1,9 @@
 # Firebase와 CRA를 활용한 트위터 클론 앱
 
+#### 소개
+
+![simulate](https://user-images.githubusercontent.com/58724686/111955184-85877100-8b2c-11eb-9273-e757bea079db.gif)
+
 #### 사용 기술
 
 -   [firebase](https://firebase.google.com/)
@@ -9,11 +13,11 @@
 
 -   구글, 깃허브 소셜 로그인
 -   프로필 생성 및 수정
--   트윗 CRUD 및 이미지 업로드
+-   리얼 타임 트윗 CRUD 및 이미지 업로드
 
 #### 배포
 
--   [바로가기](https://DevYuns.github.io/twitter-clone)
+-   [사이트](https://DevYuns.github.io/twitter-clone)
 
 #### 설치
 
